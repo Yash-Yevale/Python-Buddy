@@ -1,1 +1,1 @@
-# Python-Buddy
+# Python Buddy
